@@ -5,6 +5,21 @@
 
 ---
 
+## 🔗 Continuation of Work (FYP-2)
+
+This project serves as the foundation for the continuation of our Final Year Project:
+
+👉 :contentReference[oaicite:0]{index=0}
+
+FYP-2 expands upon the work completed in FYP-1 by shifting towards:
+
+- Deep Learning approaches  
+- Transformer-based architectures  
+- Improved contextual understanding of mental health-related text  
+- Higher model performance and scalability  
+
+The goal of FYP-2 is to further improve the accuracy and robustness of mental health detection systems using modern AI techniques.
+
 ## **📌 Project Overview**
 
 This project focuses on detecting **mental health conditions**, specifically **Depression** and **Suicidal Ideation**, from social media text data. The aim of FYP-1 was to deeply understand and implement the **fundamental concepts of Natural Language Processing (NLP) and Machine Learning** by building models **from scratch**, rather than relying on pre-built implementations from libraries such as **scikit-learn**, **TensorFlow**, or **PyTorch**.
