@@ -9,7 +9,7 @@
 
 This project serves as the foundation for the continuation of our Final Year Project:
 
-👉 :contentReference[oaicite:0]{index=0}
+👉 https://github.com/Gh0st2487/FYP-2
 
 FYP-2 expands upon the work completed in FYP-1 by shifting towards:
 
